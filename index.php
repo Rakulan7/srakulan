@@ -68,7 +68,9 @@
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/favicon.png" class="img-fluid" alt="" style="width: 100%">
+            <!--<img src="assets/img/favicon.png" class="img-fluid" alt="" style="width: 100%">-->
+            <!--<img src="https://tryhackme-badges.s3.amazonaws.com/Rakusko.png" alt="TryHackMe">-->
+            <script src="https://tryhackme.com/badge/1357317"></script>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Etudiant</h3>
